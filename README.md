@@ -15,8 +15,8 @@ Latihan otomatisasi berbasis **Katalon Studio (Groovy)**:
 
 | Repo | Isi |
 |---|---|
-| [automation-API](https://github.com/andifajrimaf/automation-API) | Pengujian API: validasi response, status code, dan skenario negatif |
-| [automation-login](https://github.com/andifajrimaf/automation-login) | Otomatisasi alur login dan validasi sesi |
-| [web-DAF](https://github.com/andifajrimaf/web-DAF) | Eksplorasi otomatisasi web |
+| [automation-API](https://github.com/andifajriimaf/automation-API) | Pengujian API: validasi response, status code, dan skenario negatif |
+| [automation-login](https://github.com/andifajriimaf/automation-login) | Otomatisasi alur login dan validasi sesi |
+| [web-DAF](https://github.com/andifajriimaf/web-DAF) | Eksplorasi otomatisasi web |
 
 Terbuka untuk diskusi seputar QA di sistem pembayaran.
