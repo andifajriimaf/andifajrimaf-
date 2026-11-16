@@ -7,16 +7,4 @@ Senior QA Engineer — sistem transaksi keuangan (mobile, web, desktop, ATM/EDC)
 
 **Portofolio & studi kasus:** https://andifajrii-qa.netlify.app
 
----
-
-#### Yang ada di sini
-
-Latihan otomatisasi berbasis **Katalon Studio (Groovy)**:
-
-| Repo | Isi |
-|---|---|
-| [automation-API](https://github.com/andifajriimaf/automation-API) | Pengujian API: validasi response, status code, dan skenario negatif |
-| [automation-login](https://github.com/andifajriimaf/automation-login) | Otomatisasi alur login dan validasi sesi |
-| [web-DAF](https://github.com/andifajriimaf/web-DAF) | Eksplorasi otomatisasi web |
-
 Terbuka untuk diskusi seputar QA di sistem pembayaran.
